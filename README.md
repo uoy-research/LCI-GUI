@@ -1,5 +1,7 @@
 ## LCI GUI
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21379245.svg)](https://doi.org/10.5281/zenodo.21379245)
+
 This code creates a GUI for the Openflexure microscope using the pysangaboard Python library, allowing configuring and running a timelapse capture.
 
 ## Setting up the Raspberry Pi and software dependencies
